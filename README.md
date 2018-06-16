@@ -6,6 +6,6 @@ Proof the concept that ARCore have a capability to reconstruct an environment as
 
 ## TODO
 
-[ ] Capture Point Clouds and educate on it shape in Unity
-[ ] Preview Point Clouds shape of a room
-[ ] Reconstruct the shape from Point Clouds
+- [ ] Capture Point Clouds and educate on it shape in Unity
+- [ ] Preview Point Clouds shape of a room
+- [ ] Reconstruct the shape from Point Clouds
